@@ -3,9 +3,9 @@
 Hey! I am Nitish Singla and this portfolio represents all my work and accomplishments.
 
 
-## 🏆Kaggle Competitions
+## Academic Projects
 
-- [Contradictory, My Dear Watson](https://github.com/wannasleepforlong/Contradictory-My-Dear-Watson)
+- [Price Prediction](https://github.com/Salty-duck0/Price-Prediction)
   - Detecting contradiction and entailment in multilingual text with NLP using TPU utilizing XLM-RoBERTa.
 
 - [Spaceship Titanic Prediction](https://github.com/wannasleepforlong/Spaceship-Titanic-Transport-Prediction)
